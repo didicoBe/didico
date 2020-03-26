@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Waldir Bertuqui Neto - Freelancer
 
 You can use the [editor on GitHub](https://github.com/didicoBe/didico/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
